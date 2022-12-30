@@ -1,0 +1,100 @@
+
+
+06-11-2022
+
+Points
+1. XRPL explorer in all condition on details page -  Fixed
+2. Edit Button on Profile page - Fixed
+3. cancel Button on Profile update page - Fixed
+4. Activity page alignment issue  - Fixed
+5. Follower and Following issues Popup along with alignment- Fixed
+6. Burn NFT, amount should be back - Fixed
+7. Burn NFT before put on sale - Fixed
+8. Burn NFT Popup page button issue - Fixed.
+
+
+
+07-11-2022
+
+1. Precission issue (Decimal points) - Fixed
+2. Create NFT page issue
+- Issues on Categories fields   - Fixed
+- MP3 & MP4, Background image upload issue.   Fixed
+- Fiat Slider   - Fixed
+4. Popup of all pages and conditions.   Not yet picked, Vinod will need for this
+5. Artist page issue under collect page - Fixed
+6. Search fundtionality on collect page - Fixed
+7. MP3 NFT details page issue   - Fixed  - Fixed
+8. Not for sale alignment  - Vinod Required
+9. Transaction Popup(Follow steps popup) 
+- page close option  Not required
+- Disclaimer  - Yet To share
+10. FAQ
+- FAQ will FAQs  Fixed   
+- FAQ need to update  , In progress
+11. Unlike on own profile activities section - Will takeup later
+12. Once the Time end, Make a offer button should be removed.  Fixed.
+13. At the time to upload images, we have to add Image size guidelines  - Yet to share
+14  Rolatly fee and service fee - Not required to do
+15. Royalty % - only three decimals are allowed
+
+
+
+
+
+Fixed on 4 oclock call
+Precision Issue (decimal points)
+Auction Issue
+mint issues
+addition on OG tags
+
+
+Fixed on 5:30 call
+auction time issue   Tested and Not fixed
+drop down category
+search input overlap
+price label change
+artist screen fix
+Once the Time end, Make a offer button should be removed - Fixed
+Make a offer button should be removed once auction eds
+Highest Bid Issue is fixed
+assets without token ID will not be shown now
+
+FAQ is in progress
+
+07-11-2022
+
+1. Precission issue (Decimal points) - Fixed
+2. Create NFT page issue
+- Issues on Categories fields   - Fixed
+- MP3 & MP4, Background image upload issue.   Fixed
+- Fiat Slider   - Fixed
+3. Artist page issue under collect page - Fixed
+4. Search fundtionality on collect page - Fixed
+5. MP3 NFT details page issue   - Fixed  - Fixed
+6. FAQ
+- FAQ will FAQs  Fixed   
+- FAQ need to update  Fixed
+7. Once the Time end, Make a offer button should be removed.  Fixed.
+8. Royalty % - only three decimals are allowed  Fixed
+
+
+
+
+
+1. Popup of all pages and conditions.   Not yet picked, Vinod will need for this
+
+2. Not for sale alignment  - Vinod Required
+3. Transaction Popup(Follow steps popup) 
+ - Disclaimer  - Yet To share
+4. Unlike on own profile activities section - Will takeup later
+5. At the time to upload images, we have to add Image size guidelines  - Yet to share
+
+
+
+
+
+
+
+
+

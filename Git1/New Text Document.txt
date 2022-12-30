@@ -1,0 +1,37 @@
+1) Customer Price < available INR balance and Customer Price < actual market price of purchasing asset
+Error : market fluctuation error
+2) Customer Price > Available INR Balance 
+Error : You have insufficient Balance
+3)  Partial Order fill case
+Quantity of asset entered by Customer > Quantity available in BEXRemaining quantity is cancelled.
+
+Buy Case:
+1. Customer Price < available INR balance, but entered quantity> Actual Bex quantity.
+Error : market fluctuation error
+
+2. Customer Price > Available INR Balance with any quantity entered.
+Error : You have insufficient Balance
+
+3. Partial Order fill case
+Quantity of asset entered by Customer > Quantity available in BEX , Then matched quantity will be ordered and Remaining quantity will be cancelled.
+
+Limit order case:
+ 
+4. Price is set below actual price with available asset quantity.
+ Limit price cannot be less than 10% of market price"
+
+5. Price is set below actual price with more than available asset quantity.
+You have insufficient balance to execute this order, Please try with reduced amount."
+
+
+Sell case:
+1. Asked amount by customer>Bex amount 
+Due to low liquidity, your order has been rejected to avoid major loses.
+Please try again later. 
+
+2. Asked amount by customer<Bex amount & quantity entered is higher.
+Crypto balance in wallet is insufficient to execute this order, Please try with reduced quantity."
+
+3. Limit order case:
+Price is set above actual price with awailable asset quantity.
+Limit price cannot be greater than 10% of market price".
